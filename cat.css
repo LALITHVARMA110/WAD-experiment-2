@@ -1,0 +1,62 @@
+<html>
+<head>
+<link rel="stylesheet" href="catalogue.css">
+<title> CatalogueHyperlink</title>
+<style>
+Body
+{
+ font-family: "Courier New", Courier, monospace;
+}
+</style>
+</head>
+<body>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width, initial-scale=1.0">
+<title>Image hover animation | helpme_coder</title>
+<style>
+body{
+background: rgb(99, 99, 92);
+display: flex;
+justify-content: center;
+}
+.wrapper
+{
+}
+height: 300px;
+width: 300px;
+border-radius: 20px;
+overflow: hidden;
+border: 6px solid rgb(99, 99, 92);
+.wrapper img{
+height: 100%;
+width: 100%;
+border-radius: 20px;
+filter: grayscale(100%);
+transition: 0.5s ease-in;
+cursor: pointer;
+}
+wrapper img:hover
+
+{
+transform: scale(1.2);
+filter: grayscale(0);
+zoom: 10%;
+}
+</style>
+</head>
+<body>
+</div>
+<div class="wrapper">
+<img src="Catalog.jpeg">
+</body>
+</html>
+Retail goods.<br>
+Consumer electronics.<br>
+Delivery.<br>
+Groceries.<br>
+Flipkart Business.<br>
+Flipkart Drive.<br>
+</body>
+<html>

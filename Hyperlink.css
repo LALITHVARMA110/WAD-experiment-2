@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Hyperlink</title>
+<style>
+Body
+{
+background-color: F08080;
+}
+</style>
+</head>
+<body>
+<a href="https://en.wikipedia.org/wiki/Flipkart" name="Hyperlink" target="f32" title="About us">About us</a><br>
+<a href="https://stories.flipkart.com/get-help-contact-flipkart-support/" name="Hyperlink" target="f32" title="What we do">helpcentre</a><br>
+<a href="https://www.digicommerce.in/flipkart-product-listing-services/" name="Hyperlink" target="f32" title="Products">Products and Services</a><br>
+<a href="https://newspatrolling.com/flipkart-company-profile/" name="Hyperlink" target="f32" title="Profile">Comapny Profile</a><br>
+</body>
+<html>
